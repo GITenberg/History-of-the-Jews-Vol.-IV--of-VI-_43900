@@ -1,0 +1,32 @@
+_repo: History-of-the-Jews-Vol.-IV--of-VI-_43900
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43900-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Graetz, Heinrich
+    aliases:
+    - Graetz, Hirsch
+    - Graetz, H. (Heinrich)
+    - Grätz, Hirsch
+    - Graetz, Heinrich Hirsch
+    - Gratz, Hirsch
+    birthdate: 1817
+    deathdate: 1891
+    gutenberg_agent_id: '42001'
+    url: http://www.gutenberg.org/2009/agents/42001
+description: ''
+gutenberg_issued: '2013-10-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43900'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Jews -- History'
+title: History of the Jews, Vol. 4 (of 6)
+url: http://www.gutenberg.org/ebooks/43900
